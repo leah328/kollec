@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\bin\Debug\kkkkk.exe.config
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\bin\Debug\kkkkk.exe
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\bin\Debug\kkkkk.pdb
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.Form1.resources
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.exe
+C:\Users\HUAWEI\Desktop\kkkkk\kkkkk\obj\Debug\kkkkk.pdb
